@@ -7,7 +7,7 @@ A dirty adaptation of [shadymeowy's QPrimaryFlightDisplay](https://github.com/sh
 - Ground speed, altitude, heading and vertical speed indicators
 - Flight selector (bottom left)
 - Time since last seen (bottom right)
-- No signal indicator
+- Signal loss message
 
 ## Usage
 
